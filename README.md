@@ -9,7 +9,7 @@ Predict whether a customer will churn based on their usage data using machine le
 ## 🚀 Features
 
 - 📊 Predicts customer churn using trained ML models
-- 🧠 Built with Scikit-learn & Logistic Regression
+- 🧠 Built with Scikit-learn & Random Forest
 - 🖥️ User-friendly web interface with Flask
 - 💾 Preprocessed telecom dataset
 

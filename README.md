@@ -11,14 +11,10 @@ Predict whether a customer will churn based on their usage data using machine le
 - 📊 Predicts customer churn using trained ML models
 - 🧠 Built with Scikit-learn & Random Forest
 - 🖥️ User-friendly web interface with Flask
-- 💾 Preprocessed telecom dataset
+- 💾 Telecom dataset
 
 ---
 
-## 📷 Screenshots
-
-<img src="Screenshots/screenshot1.png" width="600"/>
-<img src="Screenshots/screenshot2.png" width="600"/>
 
 ---
 
@@ -33,7 +29,7 @@ Predict whether a customer will churn based on their usage data using machine le
 
 ## 📁 Dataset
 
-Dataset used is from the [Telco Customer Churn dataset](https://www.kaggle.com/blastchar/telco-customer-churn).
+Dataset used is from the [Telco Customer Churn dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn).
 
 ---
 

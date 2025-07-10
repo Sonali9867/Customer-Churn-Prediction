@@ -15,8 +15,10 @@ Predict whether a customer will churn based on their usage data using machine le
 
 ---
 ## 📸 Screenshots
-
+Home Page
  ![Home](screenshots/scr-1.png) 
+Prediction Result
+<br>
 ![Result](screenshots/scr-2.png) 
 
 

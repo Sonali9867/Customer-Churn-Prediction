@@ -17,7 +17,7 @@ Predict whether a customer will churn based on their usage data using machine le
 ## 📸 Screenshots
 | Home Page | Prediction Result |
 |-----------|-------------------|
-| ![Home](https://raw.githubusercontent.com/Sonali9867/Customer-Churn-Prediction/main/screenshots/home.png) | ![Result](https://raw.githubusercontent.com/Sonali9867/Customer-Churn-Prediction/main/screenshots/result.png) |
+| ![Home](screenshots/scr-1.png) | ![Result](https://raw.githubusercontent.com/Sonali9867/Customer-Churn-Prediction/main/screenshots/result.png) |
 
 
 ---
